@@ -1,6 +1,6 @@
-## 📝 Temporary Documentation: Apple Push Notification Setup for Agora Chat (iOS)
+## 📝 Apple Push Notification Setup for Agora Chat (iOS)
 
-> ⚠️ **This is a temporary guide for setting up Apple Push Notifications with Agora Chat SDK.**  
+> ⚠️ **This is a guide for setting up Apple Push Notifications with Agora Chat SDK.**  
 > This guide supplements the current official documentation, which does not yet fully cover the Apple Push Notification (APNs) setup steps.
 
 ---
